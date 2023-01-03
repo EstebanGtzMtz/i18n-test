@@ -6036,6 +6036,11 @@
     "shell-quote" "^1.6.1"
     "ws" "^7"
 
+"react-hook-form@^7.41.3":
+  "integrity" "sha512-5QNTmqJtDb88WV5n41b6+AmcDMVyaJ3tccPgHAgS215w3jZ3bmJhDO27kNTr8u4YHNYXmS7p1/4/KachBAlUtw=="
+  "resolved" "https://registry.npmjs.org/react-hook-form/-/react-hook-form-7.41.3.tgz"
+  "version" "7.41.3"
+
 "react-i18next@^12.1.1":
   "integrity" "sha512-mFdieOI0LDy84q3JuZU6Aou1DoWW2fhapcTGeBS8+vWSJuViuoCLQAMYSb0QoHhXS8B0WKUOPpx4cffAP7r/aA=="
   "resolved" "https://registry.npmjs.org/react-i18next/-/react-i18next-12.1.1.tgz"
@@ -6134,7 +6139,7 @@
     "react-shallow-renderer" "^16.15.0"
     "scheduler" "^0.22.0"
 
-"react@^16.0.0 || ^17.0.0 || ^18.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^18.1.0", "react@>= 16.8.0", "react@18.1.0":
+"react@^16.0.0 || ^17.0.0 || ^18.0.0", "react@^16.8.0 || ^17 || ^18", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^18.1.0", "react@>= 16.8.0", "react@18.1.0":
   "integrity" "sha512-4oL8ivCz5ZEPyclFQXaNksK3adutVS8l2xzZU0cqEFrE9Sb7fC0EFK5uEk74wIreL1DERyjvsU915j1pcT2uEQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.1.0.tgz"
   "version" "18.1.0"

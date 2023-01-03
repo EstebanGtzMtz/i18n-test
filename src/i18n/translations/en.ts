@@ -1,7 +1,12 @@
 export const en = {
-  HELLO: 'Hello',
+  GENERAL_SUBMIT_BUTTON: 'Submit',
+  MAIN_TITLE: 'Choose the country which will use our service',
+  LANGUAJES: {
+    ENGLISH: 'English',
+    SPANISH: 'Spanish'
+  },
   LOGIN: {
-    NAME: 'name',
-    CHANGE_LANGUAJE: 'Change Languaje'
+    FIRSTNAME: 'First name',
+    LASTNAME: 'Last name'
   }
 }
